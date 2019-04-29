@@ -1,0 +1,6 @@
+com\fengs\oath2\orm\Role.class
+com\fengs\oath2\controller\UserController.class
+com\fengs\oath2\orm\UserInfo.class
+com\fengs\oath2\Appllication.class
+com\fengs\oath2\jpa\RoleJpa.class
+com\fengs\oath2\jpa\UserJpa.class
